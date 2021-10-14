@@ -1,7 +1,7 @@
 
 # README
 
-Hello, my name is MineYoursAll.<br>
+Hello, my name is Abdourahmane GADIO.<br>
 I am a student in IT, who work with multiple langages, such as :
 <ul>
   <li>C</li>
