@@ -2,7 +2,8 @@
 # Learn more about myself
 
 Hello, my name is Abdourahmane GADIO.<br>
-I am a student in IT, who work with multiple langages, such as :
+
+## I am a student in IT, who work with multiple langages, such as :
 <ul>
   <li>C</li>
   <li>C# for Video Games, like <a href="https://github.com/NathanDelorme/Spelunca">Spelunca</a> </li>
@@ -16,11 +17,23 @@ I am a student in IT, who work with multiple langages, such as :
 </ul>
 </p><br>
 
-I also worked on multiples IDE, like <a href="https://www.eclipse.org/">Eclipse</a>, <a href="https://www.codeblocks.org/">CodeBlocks</a>, or <a href="https://www.geany.org/">Geany</a>.<br>
+## I also worked on multiples IDE, like :
+<ul>
+  
+  <li> <a href="https://www.eclipse.org/"> Eclipse </a> 
+    <img src=https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png alt="Logo Geany" width="30"> </li>
+  
+  <li> <a href="https://www.codeblocks.org/"> CodeBlocks </a> 
+    <img src=https://www.codeblocks.org/images/logo160.png alt="Logo CodeBlocks" width="30"> </li>
+  
+  <li> or <a href="https://www.geany.org/"> Geany</a> 
+    <img src=https://www.geany.org/static/img/geany.svg alt="Logo Geany" width="30"> </li>
+  
+</ul>
 
-I also know how to create virtual machines, thanks to <a href="https://www.virtualbox.org/">VirtualBox</a> or <a href="https://www.vmware.com/">VMWare</a>.
+## I also know how to create virtual machines, thanks to <a href="https://www.virtualbox.org/">VirtualBox</a> or <a href="https://www.vmware.com/">VMWare</a>.
 
-The operating systems that I can use are : <br>
+## The operating systems that I can use are : <br>
 
 <ol>
 <li>Windows
