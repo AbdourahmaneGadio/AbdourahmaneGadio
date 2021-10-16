@@ -1,5 +1,5 @@
 
-# README
+# Learn more about myself
 
 Hello, my name is Abdourahmane GADIO.<br>
 I am a student in IT, who work with multiple langages, such as :
