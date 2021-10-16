@@ -4,24 +4,24 @@
 Hello, my name is Abdourahmane GADIO.<br>
 
 ## I am a student in IT, who work with multiple langages, such as :
-<ul>
+
+<ul> 
   <li>C</li>
   <li>C# for Video Games, like <a href="https://github.com/NathanDelorme/Spelunca">Spelunca</a> </li>
-  <li>CSS</li>
   <li>HTML for web developement</li>
   <li>Java for interfaces</li>
-  <li>PHP</li>
+  <li>PHP for Web applications</li>
   <li>Python</li>
   <li>R</li>
   <li>SQL to manage Database</li>
+  <li>Unity</li>  
 </ul>
-</p><br>
 
 ## I also worked on multiples IDE, like :
 <ul>
   
   <li> <a href="https://www.eclipse.org/"> Eclipse </a> 
-    <img src=https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png alt="Logo Geany" width="30"> </li>
+    <img src=https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png alt="Logo Eclipse" width="30"> </li>
   
   <li> <a href="https://www.codeblocks.org/"> CodeBlocks </a> 
     <img src=https://www.codeblocks.org/images/logo160.png alt="Logo CodeBlocks" width="30"> </li>
@@ -54,6 +54,4 @@ Hello, my name is Abdourahmane GADIO.<br>
 <li>MacOS</li>
 </ol> 
 
-</p><br>
-
-Thank you for your consideration, do not hesistate to contact me !
+### Thank you for your consideration, do not hesistate to contact me !
