@@ -1,9 +1,9 @@
 
 # Learn more about myself
 
-Hello, my name is Abdourahmane GADIO.<br>
+Hello, my name is Abdourahmane GADIO. I am a student in IT passionate about cybersecurity and web developement.<br>
 
-## I am a student in IT, who work with multiple langages, such as :
+## Every langages I work with:
 
 <ul> 
   <li>C</li>
@@ -36,6 +36,7 @@ Hello, my name is Abdourahmane GADIO.<br>
 ## The operating systems that I can use are : <br>
 
 <ol>
+
 <li>Windows
   <ol>
   <li>7</li>
@@ -54,4 +55,17 @@ Hello, my name is Abdourahmane GADIO.<br>
 <li>MacOS</li>
 </ol> 
 
+## My GitHub's stats<hr>
+
+<img src='https://github-readme-stats.vercel.app/api?username=abdourahmanegadio&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=auto' height=130px>   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=abdourahmanegadio&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=auto' height=130px>
+
 ### Thank you for your consideration, do not hesistate to contact me !
+
+[![ProtonMail Badge][protonmail]](mailto:agadio@protonmail.com)      [![Linkedin Badge][linkedin]](https://www.linkedin.com/in/abdourahmane-g/)
+
+
+[//]: # (Liens des références utilisées dans le corps du Markdown)
+
+[protonmail]: https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
+
+[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
