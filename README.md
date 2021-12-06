@@ -8,7 +8,7 @@ Hello, my name is Abdourahmane GADIO. I am a student in IT passionate about cybe
 <ul> 
   <li>C</li>
   <li>C# for Video Games, like <a href="https://github.com/NathanDelorme/Spelunca">Spelunca</a> </li>
-  <li>HTML for web developement like <a href="https://github.com/AbdourahmaneGadio/DUTInfo-Website">my website about my diploma</a></li>
+  <li>HTML for web developement</li>
   <li>Java for interfaces</li>
   <li>PHP for Web applications</li>
   <li>Python</li>
