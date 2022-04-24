@@ -7,7 +7,7 @@ Hello, my name is Abdourahmane GADIO. I am a student in IT passionate about cybe
 
 <ul> 
   <li>C</li>
-  <li>CSS - HTML - Javascript for web developement like my website about <a href="https://abdourahmanegadio.github.io/Streaming-Services-for-Music/">Streaming Services for Music</a></li>
+  <li>CSS - HTML - Javascript for web developement like my website about <a href="https://abdourahmanegadio.github.io/Home-Theater-Guide/">Home Theater Guide</a></li>
   <li>Java for interfaces and mobiles apps like this : <a href="https://github.com/AbdourahmaneGadio/AndroidAppsCollege/tree/master">AndroidAppsCollege</a></li>
   <li>PHP for Web applications</li>
   <li>Python</li>
