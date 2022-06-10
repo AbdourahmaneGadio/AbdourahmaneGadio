@@ -17,14 +17,17 @@ Hello, my name is Abdourahmane GADIO. I am a student in IT passionate about cybe
 ## I also worked on multiples IDE, like :
 <ul>
   
-  <li> <a href="https://www.eclipse.org/"> Eclipse </a> 
-    <img src=https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png alt="Logo Eclipse" width="30"> </li>
-  
   <li> <a href="https://www.codeblocks.org/"> CodeBlocks </a> 
     <img src=https://www.codeblocks.org/images/logo160.png alt="Logo CodeBlocks" width="30"> </li>
   
-  <li> or <a href="https://www.geany.org/"> Geany</a> 
+   <li> <a href="https://www.eclipse.org/"> Eclipse </a> 
+    <img src=https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png alt="Logo Eclipse" width="30"> </li>
+  
+  <li> <a href="https://www.geany.org/"> Geany</a> 
     <img src=https://www.geany.org/static/img/geany.svg alt="Logo Geany" width="30"> </li>
+  
+  <li> <a href="https://code.visualstudio.com/"> Visual Studio Code</a> 
+    <img src=https://code.visualstudio.com/assets/images/code-stable.png alt="Logo Visual Studio Code" width="30"> </li>
   
 </ul>
 
@@ -44,7 +47,7 @@ Hello, my name is Abdourahmane GADIO. I am a student in IT passionate about cybe
   
 <li>Linux
   <ol>
-  <li>Debian 10</li>
+  <li>Debian 11</li>
   <li>CentOS</li>
 </ol>    
   
