@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a personal project for PC gamers : [Optimized Settings for PC Games](https://abdourahmanegadio.github.io/Optimized-settings-for-PC-Games/)
 
-- I’m helped to code, design and publish this health and sport app : [Modytrainer](https://play.google.com/store/apps/details?id=com.modytrainer.app)
+- I helped to code, design and publish this health and sport app : [Modytrainer](https://play.google.com/store/apps/details?id=com.modytrainer.app)
 
 - 👨‍💻 Both of my resume and projects are available at : [https://abdourahmanegadio.github.io/Portfolio/](https://abdourahmanegadio.github.io/Portfolio/)
 
