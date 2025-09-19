@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm GADIO Abdourahmane 👋</h1>
-  <h3 align="center">Software Engineer | Full Stack (Back-end) & Mobile Developer (Flutter, React Native)</h3>
+  <h3 align="center">Software Engineer & Mobile Developer (Flutter, React Native)</h3>
 </div>
 
 ### 👨‍💻 About Me
@@ -36,9 +36,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/abdourahmane-g) 
 - Email: [agadio@protonmail.com](mailto:agadio@protonmail.com) 
-
----
-
-<p align="center">
-  <em>Thank you for visiting my profile !</em>
-</p>
