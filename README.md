@@ -71,7 +71,7 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=AbdourahmaneGadio&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 </div>
 
