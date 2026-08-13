@@ -64,8 +64,8 @@
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdourahmaneGadio&show_icons=true&theme=tokyonight&hide_border=true" alt="Abdourahmane's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdourahmaneGadio&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=AbdourahmaneGadio&show_icons=true&theme=tokyonight&hide_border=true" alt="Abdourahmane's GitHub statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdourahmaneGadio&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
